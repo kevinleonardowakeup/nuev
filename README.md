@@ -1,2 +1,5 @@
-# nuev
-mi first repo
+
+# Hola gente 
+
+Soy kevin aprendiz novato en github
+
