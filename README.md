@@ -1,5 +1,5 @@
 
-# Hola gente 
+# Ey welcome
 
-Soy kevin aprendiz novato en github
+Hola mundo Soy kevin aprendiz novato en github
 
